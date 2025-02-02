@@ -9,7 +9,7 @@ def modify_list(l):
             l[i] //= 2
             i += 1
 
-#Пример
+#РџСЂРёРјРµСЂ
 lst = [1, 2, 3, 4, 5, 6]
 print(modify_list(lst))
 print(lst)
