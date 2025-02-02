@@ -2,9 +2,9 @@ A = float(input())
 B = float(input())
 H = float(input())
 if A <= H <= B:
-    print("İòî íîğìà")
+    print("Ğ­Ñ‚Ğ¾ Ğ½Ğ¾Ñ€Ğ¼Ğ°")
 elif H:
-    print("Íåäîñûï")
+    print("ĞĞµĞ´Ğ¾ÑÑ‹Ğ¿")
 else:
-    print("Ïåğåñûï")
+    print("ĞŸĞµÑ€ĞµÑÑ‹Ğ¿")
 
