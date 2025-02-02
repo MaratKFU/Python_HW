@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Theme1", "Theme1\Theme1.pyproj", "{C4DB9B73-4F14-4A9E-B0BC-6E9D0333CD46}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Theme2", "Theme2\Theme2.pyproj", "{FC89BA34-9005-4AAD-924D-62BCA0B55814}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Theme3", "Theme3\Theme3.pyproj", "{BDE8F7D2-2E04-452A-A3DA-762BA9CFD339}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Theme4", "Theme4\Theme4.pyproj", "{C470FFB7-7997-4121-AC92-2C272075E9A9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Theme5", "Theme5\Theme5.pyproj", "{2E99B8A5-8E65-44DD-9A8E-9A478BC2AE6E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Theme7", "Theme7\Theme7.pyproj", "{5CA76B78-93EB-4C2C-B973-0C3BBDBEBCB7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Theme6", "Theme6\Theme6.pyproj", "{F11EC77C-8C77-4624-A9F3-F7150C5F099C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4DB9B73-4F14-4A9E-B0BC-6E9D0333CD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4DB9B73-4F14-4A9E-B0BC-6E9D0333CD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC89BA34-9005-4AAD-924D-62BCA0B55814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC89BA34-9005-4AAD-924D-62BCA0B55814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE8F7D2-2E04-452A-A3DA-762BA9CFD339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE8F7D2-2E04-452A-A3DA-762BA9CFD339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C470FFB7-7997-4121-AC92-2C272075E9A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C470FFB7-7997-4121-AC92-2C272075E9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E99B8A5-8E65-44DD-9A8E-9A478BC2AE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E99B8A5-8E65-44DD-9A8E-9A478BC2AE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA76B78-93EB-4C2C-B973-0C3BBDBEBCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA76B78-93EB-4C2C-B973-0C3BBDBEBCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11EC77C-8C77-4624-A9F3-F7150C5F099C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11EC77C-8C77-4624-A9F3-F7150C5F099C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
