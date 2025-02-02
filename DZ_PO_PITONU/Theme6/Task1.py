@@ -1,4 +1,4 @@
-print("Введите список слов:")
+print("Р’РІРµРґРёС‚Рµ СЃРїРёСЃРѕРє СЃР»РѕРІ:")
 mas = input().split()
 countNums = {}
 for i in range(len(mas)):
